@@ -10,6 +10,8 @@ import java.util.Scanner;
  * @author smrki
  */
 public class ConvertCelsiusToFahrenheit {
+    System.out.println("Once upon a time...");   //Adding a required change for a new branch of this repository
+    System.out.println("There was a little hobbit...");   //Adding a second required change for a new branch of this repository
 
 
     public static void main(String[] args) {
